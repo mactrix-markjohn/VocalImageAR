@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Chukwuemeka\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Chukwuemeka\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_VocalImage AR.-1317711696.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Chukwuemeka\Documents\ExtendedReality\Projects\VocalImage AR" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Encoder" t="Include">
+          <e p="CopyTo.cs" t="Include" />
+          <e p="EncodeMP3.cs" t="Include" />
+          <e p="IWaveProvider.cs" t="Include" />
+          <e p="LibMp3Lame.cs" t="Include" />
+          <e p="MP3FileWriter.cs" t="Include" />
+          <e p="Naudio_Utils" t="Include">
+            <e p="ByteEncoding.cs" t="Include" />
+            <e p="Decibels.cs" t="Include" />
+            <e p="HResult.cs" t="Include" />
+            <e p="MarshalHelpers.cs" t="Include" />
+          </e>
+          <e p="RawSourceWaveStream.cs" t="Include" />
+          <e p="WaveFormat.cs" t="Include" />
+          <e p="WaveFormatEncoding.cs" t="Include" />
+          <e p="WaveFormatExtensible.cs" t="Include" />
+          <e p="WaveFormatExtraData.cs" t="Include" />
+          <e p="WaveStream.cs" t="Include" />
+        </e>
+        <e p="ExampleConvert.cs" t="Include" />
+        <e p="Fonts" t="Include">
+          <e p="Cabin" t="Include">
+            <e p="OFL.txt" t="Include" />
+            <e p="README.txt" t="Include" />
+          </e>
+          <e p="Lato" t="Include">
+            <e p="OFL.txt" t="Include" />
+          </e>
+          <e p="Nunito" t="Include">
+            <e p="OFL.txt" t="Include" />
+          </e>
+          <e p="Ubuntu" t="Include">
+            <e p="OFL.txt" t="Include" />
+            <e p="README.txt" t="Include" />
+            <e p="UFL.txt" t="Include" />
+          </e>
+        </e>
+        <e p="NativeToolkit" t="Include">
+          <e p="Editor" t="Include">
+            <e p="PostProcessor.cs" t="Include" />
+          </e>
+          <e p="Example" t="Include">
+            <e p="NativeToolkitExample.cs" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="MiniJSON.cs" t="Include" />
+            <e p="NativeToolkit.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="NativeCamera" t="Include">
+            <e p="Android" t="Include">
+              <e p="NCCallbackHelper.cs" t="Include" />
+              <e p="NCCameraCallbackAndroid.cs" t="Include" />
+              <e p="NCPermissionCallbackAndroid.cs" t="Include" />
+            </e>
+            <e p="Editor" t="Include">
+              <e p="NativeCamera.Editor.asmdef" t="Include" />
+              <e p="NCPostProcessBuild.cs" t="Include" />
+            </e>
+            <e p="iOS" t="Include">
+              <e p="NCCameraCallbackiOS.cs" t="Include" />
+            </e>
+            <e p="NativeCamera.cs" t="Include" />
+            <e p="NativeCamera.Runtime.asmdef" t="Include" />
+            <e p="README.txt" t="Include" />
+          </e>
+        </e>
+        <e p="ProceduralUIShapes" t="Include">
+          <e p="Editor" t="Include">
+            <e p="RoundedRectEditor.cs" t="Include" />
+          </e>
+          <e p="RoundedRect.cs" t="Include" />
+          <e p="RoundedRect.shader" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="ARScene Scripts" t="Include">
+            <e p="ARScriptGeneral.cs" t="Include" />
+          </e>
+          <e p="AudioWavRecorder.cs" t="Include" />
+          <e p="ConstantString.cs" t="Include" />
+          <e p="MainScene Scripts" t="Include">
+            <e p="MainScript.cs" t="Include" />
+          </e>
+          <e p="PictureScene Scripts" t="Include">
+            <e p="PictureScriptGeneral.cs" t="Include" />
+          </e>
+          <e p="SavWav.cs" t="Include" />
+        </e>
+      </e>
+      <e p="NativeCamera.Editor.csproj" t="IncludeRecursive" />
+      <e p="NativeCamera.Runtime.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+      <e p="VocalImage AR.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
